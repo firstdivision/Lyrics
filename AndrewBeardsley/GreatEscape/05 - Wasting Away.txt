@@ -1,3 +1,13 @@
+"C Walkdown"
+
+C  >  C/B  >  Am  > Am/G  > F  > F/E  > Weird D chord > G7
+
+Weird D Chord:
+1
+1
+2
+0
+
 Sitting here wasting away
 Heard its your wedding day
 
