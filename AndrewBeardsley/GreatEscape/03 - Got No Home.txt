@@ -1,48 +1,30 @@
-----------------------------------------------------------------
-Chords / Melody
-----------------------------------------------------------------
-probably G to C to D... (138 bpm)
-With a "D walkdown", 
+Verses:C G  ( I  V)
 
-end of chorus holds on a walkdown (to C?), and then
-changes (to d) and holds again (...but I've got no home)
+Chorus (I got plenty of freiends): F   G 
 
-upbeat (which is strange because it's a sad-ish song)
-
-----------------------------------------------------------------
-Drums / beat
-----------------------------------------------------------------
-Main (Repeat 3 times):
-1       2       3       4       5       6       7       8
-do      dat     do-do  dat      do      dat     do-do   dat
-
-Walkdown:
-1       2       3       4       5       6       7       8
-do-do  dat-dat  do-do   dat-dat do-do   dat-dat do-do   dat-dat
-
-End (i got, plenty of friends)...er something like this,
-hopefully it gets the idea across:
-
-1       2       3       4       5       6       7       8
-do-do   dat-dat Crash   rest    rest    rest    rest    rest
-
-1       2       3       4       5       6       7       8
-rest    rest    rest    rest    dat-dat do-do   dat-dat Crash   
+Bridge: F   C   F  G  (IV  I  IV  V)
 
 ----------------------------------------------------------------
 Lyrics
 ----------------------------------------------------------------
+C   
 Woke up this morning just starin' at the sky
+C
 Lyin' in my bed just a'wonderin' why
+G
 why can't I find what I seem to need
+G
 Why is my life so full of weeds.
+
 
 Been lookin' for years, for piece of mind
 A slice this earth that I can call mine
 A few pepper plants, a couple peach trees
 this world wasn't made for men like me
-
+ 
+                        F
 Yeah...I got plenty of friends...
+                C
 But I've got no home.
 
 (instrumental)
