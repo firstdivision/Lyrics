@@ -1,7 +1,25 @@
+Intro: Hold C
+
+Verse:  C  Weird G  Weird Gm  F  Fm
+
+Weird G      Weird Gm
+  x             x
+  3             3
+  0             0
+  0             0
+  2             2
+  x             x
+
+
+C                    WG
 I thought you might see
+                    WGm
 me in a different light
+                   F
 I thought just one time
+  Fm
 --you --
+                C
 would spend the night
 
 the wound doesn't heal
