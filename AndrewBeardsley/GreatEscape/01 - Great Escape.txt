@@ -1,3 +1,7 @@
+Verse: G   D   C   D
+
+Chorus: C  D  G  D/F#  Em  C  D  G  D
+
 I'm sittin' in a 10 by 12
 a laptop and a Christmas elf
 someone bought
@@ -9,9 +13,11 @@ a notepad full of scribbles
 and an email with no reply
 
 [chorus]
-
+C     D
 met a senorita
+         G  D/F#  Em
 and I'm going to meet her
+       C        D                  G     D
 that's how I'm planning the great escape
 
 una chica bonita
