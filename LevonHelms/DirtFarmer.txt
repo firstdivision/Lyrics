@@ -1,12 +1,17 @@
+In C
+
+C chords intro
+     
+       C                                      C
 Oh the poor old dirt farmer he's lost all his corn
 
-                              G          C
+                            G           C
 An now where's the money to pay off his loan
 
-                      G                             C
+                G                       C
 He lost all his corn, can't pay off his loan
 
-   C
+   G            C
 He lost all his corn.
 
 
