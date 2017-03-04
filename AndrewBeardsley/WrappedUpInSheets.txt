@@ -9,14 +9,14 @@ It's cold here for Austin
 Seventeen and it's awesome
 E
 Colder than it's been
-   B7            E
+                 B7
 in quite a long while
 
-E
+     E
 Even now that the sun's up
      A
 The bulb hasn't moved much
-E
+      E
 It's not expected to 
 B7              E
 which makes me smile
@@ -31,6 +31,7 @@ Like a captain and his vessel
 And I can't conceive of
 anything I've done wrong
 
+(E7 lead in)
 [CHORUS]
 A
 She's still in bed
