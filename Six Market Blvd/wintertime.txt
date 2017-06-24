@@ -28,7 +28,7 @@ everyone should be so in love
 ain't no room for the lonely
        C
 just only the hearts
-             G
+             G            G7
 that can't get enough
 
                     C
@@ -67,9 +67,28 @@ where I could be
 [CHORUS]
 
 [INST]
+G   C   G
+G   C   D
+G   C   G
+G   D   G   G7
 
 [CHORUS]
 
 [REPEAT second half chrorus]
+
+Am  D  G  GWeirdChord
+
+
+GWeirdChord:
+------------
+2
+3
+0
+0
+x
+3
+
+
+
 
 
