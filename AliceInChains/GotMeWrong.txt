@@ -22,10 +22,10 @@ Indi-vidu-ali-ty not safe.
 
 [Half Chorus:]
 
-D     Gmaj   C#      Amaj       G# E F# G# E F#
+D     F      C#      Amaj       G# E F# G# E F#
 As of now I beg you got me wrong.
 
-D     Gmaj     C#       Amaj          G# E F# G# E F#
+D     F     C#       Amaj          G# E F# G# E F#
 So unsure you run from something strong.
 
 [Verse Two:]
@@ -50,10 +50,10 @@ Show your belly like you want me to.
 
 [Chorus]
 
-D     Gmaj   C#      Amaj        G# E F# G# E F#
+D      F    C#      Amaj        G# E F# G# E F#
 As of now I beg you got me wrong.
 
-D   Gmaj         C#       Amaj   E    F#     A
+D   F         C#       Amaj   E    F#     A
 So unsure you run from something strooooooong.
 
           E         F#         A
@@ -65,7 +65,7 @@ Wroooooooong.
      E              F#        A
 In a sense, too far gone from love.
 
-E          F#        A(hold)
+F#                 A(hold)
 That won't last for-ever.
 
                            G#    E F#  G# E F# 
@@ -93,10 +93,10 @@ You may not be here when I leave.
 
 [Chorus again:]
 
-D     Gmaj   C#      Amaj       G# E F# G# E F#
+D     F     C#      Amaj       G# E F# G# E F#
 As of now I beg you got me wrong.
 
-D    Gmaj      C#       Amaj      E   F#  A
+D    F        C#       Amaj      E   F#  A
 So unsure you run from something strooooooong.
 
           E         F#         A
@@ -120,7 +120,7 @@ Wroooooooong.
      E              F#        A
 In a sense, too far gone from love.
 
-E          F#       A(hold)
+F#               A(hold)
 That won't last for-ever
 
                            G#    E F#  G# E F#
