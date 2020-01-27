@@ -6,6 +6,13 @@ CAPO 4 - Key B - 90 BPM
 
 ...need 4 lines here...
 
+Em
+.....  ... ...   . . 
+C                 G
+..... ....    .. ...
+C        G        D
+.... ... .. .   ........
+
     G
 And if you were to ask them
 C              G
@@ -15,4 +22,4 @@ I don't think they'd answer
        D                   G
 because I don't think they know
 
-[chorus]
+[/chorus]
