@@ -35,6 +35,7 @@ I'm wanted, dead or alive
 C     G  F       D
 Wanted, dead or alive
 
+[2 INTRO]
 
 [Verse]
 D                   C                     G
@@ -55,11 +56,15 @@ I'm wanted, dead or alive
 C     G  F       D
 Wanted, dead or alive
 
+[INTRO]
+
 [Solo]
+
+[INTO]
 
 C                    G        F             D
 Ooooh and I'm a cowboy, on a steel horse I ride
-C                     F       D
+C            G         F       D
 I'm wanted (wanted), dead or alive
 
 
@@ -88,9 +93,9 @@ C       G       C       G
 Dead or alive, dead or alive
 C       G        F         D
 Dead or alive, I still ride  (still ride)
-C       G       C       G
+C       G       C       D
 Dead or alive, Dead or alive
-C       G       C       G
+C       G       C       D
 Dead or alive, dead or alive
 C       G
 Dead or alive, dead or alive
