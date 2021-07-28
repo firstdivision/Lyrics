@@ -32,6 +32,8 @@ play a train song
        G     C
 play a train song
 
+G    D    G
+
 I got this old black leather jacket
 I got this pack of Marlboro Reds
 I got this stash here in my pocket
@@ -50,7 +52,7 @@ play a train song
        G     C
 play a train song
 
-
+G    D    G
 
 
 In the television blizzard lights
@@ -72,3 +74,5 @@ play a train song
 play a train song
        G     C
 play a train song
+
+G    D    G
