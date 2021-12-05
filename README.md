@@ -5,6 +5,6 @@ All the songs I play
 https://firstdivision.github.io/Lyrics/
 
 ##Maine List
-https://firstdivision.github.io/Lyrics/maine.html
+https://firstdivision.github.io/Lyrics/the-trail-bothers-set-list.html
 
 
