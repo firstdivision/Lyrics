@@ -1,4 +1,4 @@
-Capo 5
+Capo 2
 
            E
 Something new
@@ -18,6 +18,7 @@ But I've seen you
 B7                  E
       Have you seen me
 
+[CHORUS]
        A
 I see blue skies
             E
@@ -36,7 +37,8 @@ With no distractions
 B7                    E
         Your voice is bright
         
-        
+
+[VERSE]
 When I think of you
 My mind is clear
 And when you're near
@@ -47,8 +49,7 @@ With my rambling words
 You make my jumbled mind
 Feel less absurd
 
--- up tempo --
-
+[CHORUS]
 I was lost, and wandering
 Across this whole damn place
 Till that one day
@@ -59,10 +60,9 @@ as long you're with me
 So what do you say?
 Let's see what can be
 
-[inst]
+[INST]
 
--- normal tempo --
-
+[VERSE]
 I've said my piece
 Wrote the words down
 I think you know
@@ -70,5 +70,7 @@ I need you around
 
 So if you'll have me
 I'm yours for everything
+Love you forever
+Love you every day
 Love you forever
 Love you every day
