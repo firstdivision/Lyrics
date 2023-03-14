@@ -1,13 +1,22 @@
-crosswalk
+Crosswalk
+Blues feel
 
+C#m  (walk up G# B)
 Standing in a crosswalk
+    C#m
 somewhere downtown
+     C#
 it's been a while
+      C#
 since I've been around
+              F#m
 this place is different
+              C#
 I feel out of place
+               G
 where are the good times?
-have they been erased?
+F#m
+    have they been erased?
 
 A man with a bottle
 a woman asleep
@@ -19,13 +28,19 @@ The lights look the same
 but this place has changed
 
 [chorus]
+F#m
 Used to be
 there was things going on
+         C#m
 used to be
 a million different songs
+        F#m
 now the streets are empty
+       F#m
 except for the people sleeping
+         G
 what has happened
+                         C#m
 where did the good times go?
 
 [solo]
