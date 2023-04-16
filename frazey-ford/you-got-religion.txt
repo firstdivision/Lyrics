@@ -3,11 +3,14 @@ You Got Religion
 https://www.youtube.com/watch?v=XXPQNOQwYPY
 ---------------------------------------
 
-Chords / intro chorus:
+Intro:
 A  C#m  F#m   E
 
 Chords main:
 A  C#m  D   B7
+
+
+[INTRO 1X]
 
 A                      C#m
 You got religion, when you got the fear
@@ -18,6 +21,7 @@ And you got religion, when you got the breath
      F#m           E
 And I hide in the dark
 
+[MAIN CHORDS]
 A                C#m
 Were you askin',      were you sayin'?
 D
@@ -25,10 +29,17 @@ D
 B7
     What ya gonna do now?
 
-Stand in your garden, raidin' the flowers
-I would've thought singin', finish the wall oh
-Oh whoa, ah whoa
+A                           C#m          
+      Stand in your garden,       raidin' the flowers
+D                               B7                    
+     I would've thought singin',     finish the wall oh
+     
+A              C#m 
+Oh whoa, 
+D              B7
+  ah whoa
 
+[INTRO CHORDS]
      A                C#m
 And people, people don't you have heaven
         F#m               E
@@ -38,8 +49,7 @@ And people, people, don't you have heaven?
        F#m                      E
 Well then why ya have this soul sign?
 
-(after this is all verse chords)
-
+[MAIN CHORDS FROM NOW TO END]
 Were you askin', were you sayin'?
 What ya gonna do now?
 What ya gonna do now?
