@@ -10,16 +10,6 @@ I'm not hungry, I'm just thirsty
 I feel all alone - I know it's not just me
 I need some company - also just let me be
 
-[chorus] - open chords in same verse chords
-  I'm, thinkin' about you
-  Can't get you off, my, mind
-  No matter how I try. And,
-  
-  I'm, missin' you so bad
-  Almost called you up
-  Read the last text that we had
-[/chorus]
-
 Then I think of all all the good times in my mem-o-ries
 Walks and swims, dinner and a whiskey glass
 The time I fell down, looked like a dumb ass
@@ -29,6 +19,16 @@ Fast is how we ran, always look in front of us
 Getting on the bus, looking for the next thing
 A change of clothes, is all we really need to bring
 All it takes for us, is just suggesting
+
+[chorus] - open chords in same verse chords
+  I'm, thinkin' about you
+  Can't get you off, my, mind
+  No matter how I try. And,
+  
+  I'm, missin' you so bad
+  Almost called you up
+  Read the last text that we had
+[/chorus]
 
 [bridge]
 Fm   C   A#   A#m
