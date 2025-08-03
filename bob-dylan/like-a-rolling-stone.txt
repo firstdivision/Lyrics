@@ -1,97 +1,89 @@
-Tunng:E A D G B E
-Key:
-Capo:no capo
+Tuning: Standard, down 1/2 step
+Key: D
 Like A Rolling Stone
 Bob Dylan
 Album: Highway 61 Revisited (1965)
 
-chorus:
-
- 
-[Chords]
-Fmaj7/C  x33210
-Dm7      xx0211
- 
 [Intro]
-C  Fmaj7/C   C   Fmaj7/C   C   Fmaj7/C   C    Fmaj7/C
- 
-[Verse]
-C                    Dm7
-Once upon a time you dressed so fin
+D  Gmaj7/D   D   Gmaj7/D   D   Gmaj7/D   D   Gmaj7/D
 
-    Em                    F            G
-You threw the bums a dime in your prime,   didn't you?
-C                      Dm7
-  People'd call, say, "Beware doll,
-       Em                         F             G
-you're bound to fall" You thought they were all  a kiddin' you
- 
-F             G
+[Verse 1]
+D                    Em
+Once upon a time you dressed so fine
+    F#m                   G             A
+You threw the bums a dime in your prime,   didn’t you?
+D                      Em
+People'd call, say, "Beware doll,
+       F#m                        G             A
+you're bound to fall" You thought they were all   a kiddin' you
+
+G             A
   You used to   laugh about
-F                    G
+G                    A
   Everybody that was   hangin' out
- 
-F         Em   Dm7         C
+
+G         F#m   Em          D
  Now you don't talk so loud
-F         Em   Dm7          C
+G         F#m   Em           D
  Now you don't seem so proud
-     Dm7                      F           G
+     Em                       G           A
 About having to be scrounging   your next meal
- 
+
 [Chorus]
-                C  F  G
+                D  G  A
 How does it feel
-                C  F  G
+                D  G  A
 How does it feel
-                    C  F  G
+                    D  G  A
 To be without a home
-                       C  F  G
+                       D  G  A
 Like a complete unknown
-                     C  F  G
+                     D  G  A
 Like a rolling stone
- 
+
 [Instrumental]
-C  F  G
- 
-[Verse]
-           C            Dm7                   Em
+D  G  A
+
+[Verse 2]
+           D            Em
 Aww, You've gone to the finest school all right, Miss Lonely
-        F                         G
+        F#m                         G           A
 But you know you only used to get   juiced in it
-  C                        Dm7                    Em
+  D                        Em
 Nobody has ever taught you how to live out on the street
-               F                 G
+               F#m                G           A
 And now you're gonna have to get   used to it
- 
-F                    G
+
+G                    A
   You said you'd never  compromise
-F                                    G
+G                                    A
   With the mystery tramp, but now you  realize
- 
-F         Em         Dm7     C
+
+G         F#m        Em     D
  He's not selling any  alibis
-F                      Em      Dm7       C
+G                      F#m     Em       D
  As you stare into the vacuum  of his eyes
-    Dm7               F        G
+    Em                G        A
 And say do you want to  make a deal?
- 
+
 [Chorus]
-                C  F  G
+                D  G  A
 How does it feel
-                C  F  G
+                D  G  A
 How does it feel
-                 C  F  G
+                 D  G  A
 To be on your own
-                      C  F  G
+                      D  G  A
 With no direction home
-                  C  F  G
+                  D  G  A
 A complete unknown
-                    C  F  G
+                    D  G  A
 Like a rolling stone
- 
+
 [Instrumental]
-C  F  G
- 
+D  G  A
+
+
 [Verse]
         C              Dm7                    Em
 Aww, You never turned around to see the frowns
